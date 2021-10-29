@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Lydia",
+      "email": "lydiawdesign@gmail.com",
+      "password": "password1"
+    },
+    {
+      "name": "Taha",
+      "email": "boxer2021@gmail.com",
+      "password": "password1234"
+    },
+    {
+      "name": "Jennifer",
+      "email": "ilovemom@aol.com",
+      "password": "password1234"
+    },
+    {
+      "name": "Rudie",
+      "email": "rudiegal@gmail.com",
+      "password": "password1234"
+    },
+    {
+      "name": "Kayla",
+      "email": "kaykay@yahoo.com",
+      "password": "password1234"
+    },
+    {
+        "name": "Mouad",
+        "email": "inparis@gmail.com",
+        "password": "password1234"
+    },
+    {
+        "name": "Cain",
+        "email": "coffee@msn.com",
+        "password": "password1234"
+    }
+
+  ]
+  
